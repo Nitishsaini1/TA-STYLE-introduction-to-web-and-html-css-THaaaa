@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(233, 170, 241);
+    line-height: 40px;
+}
+#heading{
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 300;
+}
+.para{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
